@@ -1,0 +1,10 @@
+Table Name,Column Name,Column Type,Key,Indexed
+Student,id,java.lang.Integer,true,true
+Student,dob,java.lang.Boolean,false,true
+Student,name,java.lang.String,false,false
+Student,gpa,java.lang.Double,false,false
+Teacher,id,java.lang.Integer,true,true
+Teacher,dob,java.util.Date,false,true
+Teacher,isMarried,java.lang.Boolean,false,true
+Teacher,name,java.lang.String,false,true
+Teacher,gpa,java.lang.Double,false,true
